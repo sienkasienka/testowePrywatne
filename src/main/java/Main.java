@@ -5,6 +5,7 @@ public class Main {
         System.out.println("1 commit z kompa przed inicjalizacja Repo");
         System.out.println("3 commit z kompa w komencie gdy dodalem jedna linie kodu z Githuba");
         System.out.println("1 commit z kompa przed inicjalizacja Repo");
+        Dodane z githuba z celu zasymulowania zmian przez contrubitora
     }
 
 }
